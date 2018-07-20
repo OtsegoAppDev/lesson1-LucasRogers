@@ -1,8 +1,8 @@
 # lesson1
-######Using github for the first time.
-**In this lesson you will not be programming.  Instead we are just doing a mock program so that you can practice how to modify and submit an assignment on github**
-*First you will notice that there is a readme.md and a pizza.py file in the repository.  Often times I will be giving you a python file that already has some code in it.  You know the python file because it ends in .py.  Every repository by default has a readme.md file.  The .md stands for mark down.  Or in other words, it is a document that has a few keyed characters to modify its appearance.  Usually readme will include directions and not any code what so ever.*
-*Remember this is your own repository.  So if you make changes to the python file or the readme file those changes stay with your repository.  It will not change the template repository that I made which you cloned.  However since I have a classroom account, I can see all of the changes that you have made to your repo.*
+###### Using github for the first time.
+In this lesson you will not be programming.  Instead we are just doing a mock program so that you can practice how to modify and submit an assignment on github
+First you will notice that there is a readme.md and a pizza.py file in the repository.  Often times I will be giving you a python file that already has some code in it.  You know the python file because it ends in .py.  Every repository by default has a readme.md file.  The .md stands for mark down.  Or in other words, it is a document that has a few keyed characters to modify its appearance.  Usually readme will include directions and not any code what so ever.
+Remember this is your own repository.  So if you make changes to the python file or the readme file those changes stay with your repository.  It will not change the template repository that I made which you cloned.  However since I have a classroom account, I can see all of the changes that you have made to your repo.
 ---------------------------------------------
 Since this is the readme file, let me give you some directions.
 * I want you to use the command line so go to your raspberry pi and use the bash command line
